@@ -65,4 +65,5 @@ print(str1)
 s_count = str1.count('s')
 print(s_count)
 
+print("I am out of ideas")
 # s_index = str1.index('s')
